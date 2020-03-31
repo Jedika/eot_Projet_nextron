@@ -103,7 +103,7 @@
     "eslint-plugin-react": "^7.18.0",
     "fontfaceobserver": "^2.1.0",
     "mocha": "^7.0.0",
-    "next": "^9.1.7",
+    "next": "^9.3.2",
     "nextron": "^5.14.4",
     "node-gyp": "^6.1.0",
     "node-pre-gyp": "^0.14.0",
